@@ -2,7 +2,33 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="en-US" original="ALProject4">
     <body>
-      <group id="body" />
+      <group id="body">
+        <trans-unit id="Table 3007056723 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Al Supported Language - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3007056723 - Field 1821279055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Al Supported Language - Field Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 381053179 - Field 4165234317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Al Translator Service Setup - Field Url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 381053179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Al Translator Service Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Al Translator Service Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 765505405 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Al Supported Language List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Al Supported Language List - Property Caption</note>
+        </trans-unit>
+      </group>
     </body>
   </file>
 </xliff>
